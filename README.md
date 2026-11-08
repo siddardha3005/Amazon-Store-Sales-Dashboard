@@ -24,12 +24,11 @@ Order Returned: 4.86%
 
 | Segment |	Percentage |
 |---------|------------|
-
 | Corporate|	32.65%    |
 | Consumer	| 47.99%    |
 |Home Office|	19.35%   |
-Sales by Payment Mode
-Payment Method	Percentage
+ # Sales by Payment Mode
+ Payment Method	Percentage
 COD	42.62%
 Online	35.38%
 Cards	21.99%
