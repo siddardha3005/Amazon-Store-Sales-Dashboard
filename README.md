@@ -21,10 +21,13 @@ Order Returned: 4.86%
 
 # Performance Breakdown
 # Sales by Segment
-Segment	Percentage
-Corporate	32.65%
-Consumer	47.99%
-Home Office	19.35%
+
+| Segment |	Percentage |
+|---------|------------|
+
+| Corporate|	32.65%    |
+| Consumer	| 47.99%    |
+|Home Office|	19.35%   |
 Sales by Payment Mode
 Payment Method	Percentage
 COD	42.62%
